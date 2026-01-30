@@ -1,6 +1,6 @@
 # LWAI – Learning With AI
 
-🔗 **Link deploy (Live Demo)**: [https://welkie.github.io](https://welkie.github.io)
+🔗 **Link deploy (Live Demo)**: [[https://welkie.github.io](https://welkie.github.io)](https://welkie.github.io/lwai-learning-with-ai/)
 
 ---
 
